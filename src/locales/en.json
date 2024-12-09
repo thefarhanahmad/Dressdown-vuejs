@@ -1,0 +1,273 @@
+{
+  "header": {
+    "subTitle": "",
+    "title": "DressDown.ai",
+    "referral": "Referral link",
+    "support": "Support",
+    "recommendation": "Product tour",
+    "activatePromocode": "Activate promocode",
+    "headerNav": {
+      "link1": "How it works?",
+      "link3": "Pricing",
+      "link4": "FAQ",
+      "link5": "Support"
+    }
+  },
+  "edit": {
+    "uploadTitle": "Upload a photo",
+    "types": "Files supported .jpg .png .heic",
+    "settings": "Settings",
+    "generate": "Create",
+    "reset": "Reset",
+    "dragNDrop": "Click here to upload an Photo or Image",
+    "fileSupported": "Make sure you upload an image in on of these formats .jpg .png .hevec",
+    "uploadingFile": "Please wait while the loading is completed. This will take less than a minute. Do not refresh the page or close the tab."
+  },
+  "verifyEmail": {
+    "title": "Your account is ready",
+    "description": "Your account is ready. Now let's have fun"
+  },
+  "main": {
+    "capitalTitle": "D",
+    "firstLogoTitle": "own",
+    "secondLogoTitle": "ress",
+    "title": " See any woman topless or in your favorite bikini in 30 seconds",
+    "headDesc": "Upload a picture of a woman you want to see naked,",
+    "bodyDesc": "select your favorite look and download a high-quality image"
+  },
+  "buttons": {
+    "main": "Create your first FREE image",
+    "forFree": "Try for free",
+    "upload": "Upload a photo",
+    "submit": "Submit",
+    "makeNewPayment": "Select credits",
+    "showFilters": "Show Filters",
+    "remove": "Remove",
+    "download": "Download",
+    "backHome": "Home",
+    "close": "close"
+  },
+  "advantages": {
+    "title1": "High-quality images less than in 1 min",
+    "description1": "No blurs, watermarks and long time waiting for the image",
+    "title2": "Easy to use",
+    "description2": "We give you a step-by-step guidance",
+    "title3": "Confidential",
+    "description3": "We don't track and store any data. You can use product completely anonymously"
+  },
+  "howItWorks": {
+    "title": "How it works?",
+    "description": "Upload an image of a woman you want to see naked, follow the guidance and download high-quality image less than in 1 min",
+    "link1": "Register Safely & Anonymously",
+    "link2": "Upload a photo of a person standing at a normal angle",
+    "link3": "Choose a generation mode, and off you go!"
+  },
+  "howItLooksLike": {
+    "title": "How it",
+    "titleNext": "looks like?",
+    "description": "When you upload an image, our application will quickly process it and create a new high-quality image."
+  },
+  "generation": {
+    "title1": "images left! Let's create magic!",
+    "title2": "Create stunning images easily, you're a pro now!",
+    "almostDone": "Almost ready...",
+    "creditBalance": "You have {balance} credits left."
+  },
+  "ourPlans": {
+    "title": "Pricing",
+    "medQuality": "Medium quality",
+    "exQuality": "Excellent quality",
+    "traits": "Body",
+    "fast": "Faster queue",
+    "generation": "Faster image creation",
+    "time": "No queue",
+    "noWater": "No watermarks",
+    "undress": "Undress mode",
+    "default": "Standard",
+    "noPlan": "No plan",
+    "basic": "Basic",
+    "pro": "Pro",
+    "credits": "Credits"
+  },
+  "safe": {
+    "title1": "100%",
+    "title2": "confidential",
+    "text1": "We don’t store any data. ",
+    "text2": "You'll use our product completely aninymously"
+  },
+  "invalid": {
+    "email": "E-mail is incorrect",
+    "password": "Password should be more than 8 symbols"
+  },
+  "faq": {
+    "linkTitle1": "How can I see anybody naked?",
+    "linkDesc1": "Upload a high-quality photo, follow recommended steps to select a look (topless, bikini, latex) and then generate an image.",
+    "linkTitle2": "What are the differencies between body types?",
+    "linkDesc2": "You can apply any body type to your photo: from athletic 6-abs to skinny types. Feel free to experiment",
+    "linkTitle3": "Are my photos confidential ?",
+    "linkDesc3": "Yes , your images are completely private. They are never stored by us , and only you have access to the them",
+    "linkTitle4": "What should I do if I the quality of the final image is low?",
+    "linkDesc4": "Unfortunately, we cannot always guarantee fantastic results. The final result depends on the quality of the image you've uploaded"
+  },
+  "modals": {
+    "signUp": "Sign Up",
+    "signIn": "Sign In",
+    "send": "Send",
+    "support": "Support",
+    "copy": "Copy",
+    "submit": "Submit",
+    "change": "Change",
+    "lang": "Language",
+    "premiumInfo": "About Premium type",
+    "premiumInfoText": "To gain access to all other types of generation, you need to make a minimum purchase.",
+    "zoom": "Zoomed Image",
+    "addCash": "Select your plane",
+    "addCashBtn": "Buy Credits",
+    "planText": "Get {amount} credits",
+    "forgotPassword": "Forgot password?",
+    "instruction": "Instruction video",
+    "instructionMob": "Instruction",
+    "recoveryPass": "Password recovery",
+    "attention": "Select a deposit method",
+    "recommendation": {
+      "title": "Recommendation for the best result!",
+      "good": "Good",
+      "bad": "Bad"
+    },
+    "promoCode": {
+      "title": "Active promocode",
+      "text": "Enter your promo code to receive additional coins."
+    },
+    "referral": {
+      "title": "My referral link",
+      "invited": "You have referred {count} friends and earned {generations} free generations. Keep sharing to earn more!",
+      "text": "You get 10 free undressing for each invited friend who tops up the balance with the minimum amount!"
+    }
+  },
+  "guide": {
+    "mainWord": "Guide",
+    "title": "Let's dress the First Woman together",
+    "steps": {
+      "step1": {
+        "title": "Select a woman you want to see Naked",
+        "circleTitle": "Select a girl"
+      },
+      "step2": {
+        "title": "Select a format",
+        "circleTitle": "Select a format"
+      },
+      "step3": {
+        "title": "Great Job! Here is a Photo",
+        "circleTitle": "Finish"
+      }
+    }
+  },
+  "addCash": {
+    "add": "Add",
+    "coins": "coins",
+    "hurry": "Hurry To Buy Only Now",
+    "promotion": "Up To 25% More",
+    "privacy": "By buying Boobs coins, you agree to our privacy policy and terms of service. You can find this information in the relevant sections of our platform."
+  },
+  "registration": {
+    "requirements1": "You must be 18+ to use this website",
+    "requirements2": "You can't use other people's photos without their permission",
+    "requirements3": "You are solely responsible for the images you generate"
+  },
+  "footer": {
+    "links": {
+      "link1": "About us",
+      "link2": "Use Policy",
+      "link3": "Privacy Policy",
+      "link4": "Terms of use"
+    },
+    "data": "We do not save any image data. The individual who produces the images holds sole responsibility."
+  },
+  "recommendationPopup": {
+    "popup1": "For best results, wear minimal clothing and ensure that your face and body are clearly visible, facing the camera!",
+    "popup2": "Provide the AI with a clear and sharp photo, and watch it transform your image into something extraordinary.",
+    "popup3": "For best results, ensure that your photo features only one person. Our AI performs best when it focuses solely on you!",
+    "dontShow": "Don't show again!"
+  },
+  "navigation": {
+    "next": "Next",
+    "prev": "Back"
+  },
+  "passwordReset": {
+    "resetTitle": "Reset password",
+    "instructions": "Please enter your new password below to reset your account password.",
+    "newPasswordLabel": "New Password:",
+    "newPasswordPlaceholder": "Enter your new password",
+    "confirmPasswordLabel": "Confirm Password:",
+    "confirmPasswordPlaceholder": "(Re-enter your new password)"
+  },
+  "errors": {
+    "auth": {
+      "userExist": "User already exists",
+      "notFound": "User not found",
+      "invalidPass": "Invalid password",
+      "verifyAcc": "Please activate your account using the link in your email",
+      "invalidEmail": "User with this email does not exist"
+    },
+    "generate": {
+      "removeImg": "You successfuly removed image, click there to upload new!"
+    }
+  },
+  "success": {
+    "auth": {
+      "checkEmail": "Check your email and confirm your account"
+    }
+  },
+  "filters": {
+    "type": "Generation Type",
+    "undress": "Undress",
+    "poses": "Sex Poses",
+    "undressBlock": {
+      "undress": "Undress",
+      "underwear": "Underwear",
+      "garters": "Latex",
+      "bikini": "Bikini"
+    },
+    "selectedUndress": {
+      "breast": "Breast Size",
+      "butt": "Butt Size",
+      "body": "Body Type"
+    },
+    "selectedGarters": {
+      "black": "Black",
+      "white": "White"
+    },
+    "bikini": {
+      "pink": "Pink",
+      "blue": "Blue",
+      "green": "Green",
+      "black": "Black",
+      "purple": "Purple",
+      "orange": "Orange",
+      "colored": "Colored",
+      "white": "White"
+    },
+    "posesTypes": {
+      "cumshot": "Cum on tits",
+      "titsJob": "Titsjob",
+      "bbcblowjob": "Blowjob",
+      "cuminmouth": "Cum in Mouth",
+      "cumface": "Cum Face",
+      "dickcum": "Cum on face and body",
+      "ahegao": "Ahegao",
+      "breastclamp": "Breast Clamp",
+      "mission": "Missionary",
+      "gagged": "Gagged",
+      "anal": "Anal",
+      "maleBlowjob": "Male Blowjob"
+    },
+    "ahegao": {
+      "nun": "Nun",
+      "nurse": "Nurse",
+      "student": "Student",
+      "school": "Student",
+      "teacher": "Teacher",
+      "none": "Woman"
+    }
+  }
+}

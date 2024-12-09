@@ -1,0 +1,182 @@
+{
+  "header": {
+    "subTitle": "Un",
+    "title": "dress.app",
+    "referral": "Henvisningslink",
+    "activatePromocode": "Aktiver kampanjekode",
+    "recommendation": "Bruksanbefaling",
+    "headerNav": {
+      "link1": "Hvordan fungerer det?",
+      "link2": "Henvisning",
+      "link3": "Våre planer",
+      "link4": "FAQ",
+      "link5": "Kontakter"
+    }
+  },
+  "edit": {
+    "uploadTitle": "Last opp et bilde for å kle av",
+    "types": "Støttede filer .jpg .png .heic",
+    "settings": "Innstillinger",
+    "generate": "Generer",
+    "reset": "Tilbakestill",
+    "dragNDrop": "Dra og slipp bildet ditt her",
+    "fileSupported": "Støttede bilder .jpg .png .hevc",
+    "uploadingFile": "Vennligst vent mens opplastingen fullføres. Dette tar mindre enn ett minutt. Ikke oppdater siden eller lukk fanen under noen omstendigheter."
+  },
+  "verifyEmail": {
+    "title": "E-post bekreftet",
+    "description": "E-posten din og profilen er bekreftet."
+  },
+  "main": {
+    "capitalTitle": "D",
+    "firstLogoTitle": "own",
+    "secondLogoTitle": "ress",
+    "title": " AI - deepnude app",
+    "headDesc": "Se hvem som helst naken gratis",
+    "bodyDesc": "Bare mal over klærne, sett alder og kroppstype og få en deepnude på noen sekunder"
+  },
+  "buttons": {
+    "close": "Lukk",
+    "main": "Prøv nå",
+    "forFree": "Prøv nå",
+    "upload": "Last opp et bilde",
+    "submit": "Send inn",
+    "makeNewPayment": "Endre beløpet for påfylling",
+    "showFilters": "Vis filtre",
+    "remove": "Fjern",
+    "download": "Last ned",
+    "backHome": "Hjem"
+  },
+  "advantages": {
+    "title1": "Rask generering",
+    "description1": "genereringstiden er mindre enn 1 minutt",
+    "title2": "Brukervennlig",
+    "description2": "og intuitivt grensesnitt",
+    "title3": "Høy kvalitet",
+    "description3": "feilfri fotoperfeksjon"
+  },
+  "howItWorks": {
+    "title": "Hvordan fungerer det?",
+    "description": "Vår AI-modell er trent på tusenvis av bilder. Slik kan den gjengi så nøyaktig som mulig hvordan en person ville sett ut naken",
+    "link1": "Registrer deg trygt og anonymt",
+    "link2": "Last opp et bilde av en person som står i en normal vinkel",
+    "link3": "Velg en generasjonsmodus, og du er i gang!"
+  },
+  "howItLooksLike": {
+    "title": "Hvordan ser det",
+    "titleNext": "ut?",
+    "description": "Når du laster opp et bilde, vil applikasjonen vår raskt behandle det og gi det best mulige resultatet med høyeste kvalitet."
+  },
+  "ourPlans": {
+    "title": "Våre Planer",
+    "medQuality": "Middels kvalitet",
+    "exQuality": "Utmerket kvalitet",
+    "traits": "Kroppstrekk",
+    "fast": "Raskere kø",
+    "generation": "Raskere generasjoner",
+    "time": "Ingen kø",
+    "noWater": "Ingen vannmerker",
+    "undress": "Avkledningsmodus",
+    "default": "Standard",
+    "noPlan": "Ingen plan",
+    "basic": "Grunnleggende",
+    "pro": "Pro",
+    "credits": "Kreditter"
+  },
+  "safe": {
+    "title1": "Det er ",
+    "title2": "helt ",
+    "title3": "trygt",
+    "text1": "Vi lagrer ingen data.",
+    "text2": "Dette er helt konfidensielt, og dine handlinger publiseres ingen steder."
+  },
+  "invalid": {
+    "email": "E-post er feil",
+    "password": "Passordet må være mer enn 8 tegn"
+  },
+  "faq": {
+    "linkTitle1": "Hvordan lager jeg en deepnude?",
+    "linkDesc1": "Last opp et bilde du har tillatelse til å bruke, mal nøye over alle klærne du vil fjerne. Det er bedre å male et litt større område slik at AI-en vår har mer plass til redigering. Trykk deretter på 'GO'. Du kan også eksperimentere med forskjellige moduser som Undertøy eller Bikini, som vil endre personens klær. :)",
+    "linkTitle2": "Hva gjør kroppstype- og aldersfunksjonene?",
+    "linkDesc2": "Kroppstype- og aldersfunksjonene lar deg forbedre genereringskvaliteten for å passe dine ønsker. For eksempel, hvis du vil se en mer atletisk eller lubben kroppstype - bruk dem!",
+    "linkTitle3": "Er bildene mine private?",
+    "linkDesc3": "Ja, bildene dine er helt private. De blir aldri lagret av oss, og kun du har tilgang til resultatene.",
+    "linkTitle4": "Hva skal jeg gjøre hvis jeg får et dårlig resultat?",
+    "linkDesc4": "Dessverre kan vi ikke alltid garantere et godt resultat. Men det avhenger 90 % av hvilket bilde du bruker og hvordan du maler over klærne."
+  },
+  "modals": {
+    "signUp": "Registrer deg",
+    "signIn": "Logg inn",
+    "send": "Send",
+    "copy": "Kopier",
+    "submit": "Send inn",
+    "zoom": "Forstørret bilde",
+    "addCash": "Legg til penger",
+    "forgotPassword": "Glemt passord?",
+    "recoveryPass": "Passordgjenoppretting",
+    "attention": "Oppmerksomhet",
+    "promoCode": {
+      "title": "Aktiv kampanjekode",
+      "text": "Skriv inn kampanjekoden din for å motta ekstra mynter."
+    },
+    "referral": {
+      "title": "Min henvisningslink",
+      "invited": "Du har henvist {count} venner og tjent {generations} gratis genereringer. Fortsett å dele for å tjene mer!",
+      "text": "Du får 10 gratis avkledninger for hver invitert venn som fyller opp saldoen med minimumsbeløpet!"
+    },
+    "recommendation": {
+      "title": "Anbefaling for best resultat!",
+      "good": "God",
+      "bad": "Dårlig"
+    }
+  },
+  "addCash": {
+    "add": "Legg til",
+    "coins": "mynter",
+    "privacy": "Ved å kjøpe Boobs-mynter, godtar du vår personvernpolicy og brukervilkår. Du finner denne informasjonen i de relevante seksjonene på vår plattform.",
+    "hurry": "Skynd deg å kjøpe nå",
+    "promotion": "Opptil 65% mer",
+    "addCash": "Legg til Bryst"
+  },
+  "registration": {
+    "requirements1": "Du må være 18+ for å bruke denne nettsiden",
+    "requirements2": "Du kan ikke bruke andres bilder uten deres tillatelse",
+    "requirements3": "Du er alene ansvarlig for bildene du genererer"
+  },
+  "footer": {
+    "links": {
+      "link1": "Om oss",
+      "link2": "Bruksvilkår",
+      "link3": "Personvernerklæring",
+      "link4": "Bruksvilkår"
+    },
+    "data": "Vi lagrer ingen bildedata. Personen som produserer bildene har det fulle ansvaret."
+  },
+  "recommendationPopup": {
+    "popup1": "For best resultat, bruk minimale klær og sørg for at ansiktet og kroppen din er tydelig synlig, vendt rett mot kameraet!",
+    "popup2": "Gi AI-en et klart og skarpt bilde, og se hvordan det forvandler bildet ditt til noe ekstraordinært.",
+    "popup3": "For best resultat, sørg for at bildet ditt kun viser én person. Vår AI fungerer best når den er fokusert på deg!",
+    "dontShow": "Ikke vis igjen!"
+  },
+  "navigation": {
+    "next": "Neste",
+    "prev": "Tilbake"
+  },
+  "errors": {
+    "auth": {
+      "userExist": "Bruker eksisterer allerede",
+      "notFound": "Bruker ikke funnet",
+      "invalidPass": "Ugyldig passord",
+      "verifyAcc": "Vennligst aktiver kontoen din ved å bruke lenken i e-posten din",
+      "invalidEmail": "Bruker med denne e-posten finnes ikke"
+    },
+    "generate": {
+      "removeImg": "Du har vellykket fjernet bildet, klikk der for å laste opp nytt!"
+    }
+  },
+  "success": {
+    "auth": {
+      "checkEmail": "Sjekk e-posten din og bekreft kontoen din"
+    }
+  }
+}

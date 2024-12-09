@@ -1,0 +1,182 @@
+{
+  "header": {
+    "subTitle": "Bir",
+    "title": "dress.app",
+    "recommendation": "Kullanım önerisi",
+    "referral": "Referans bağlantısı",
+    "activatePromocode": "Promosyon kodunu etkinleştir",
+    "headerNav": {
+      "link1": "Nasıl çalışır?",
+      "link2": "Referans",
+      "link3": "Planlarımız",
+      "link4": "SSS",
+      "link5": "İletişim"
+    }
+  },
+  "edit": {
+    "uploadTitle": "Soyundurmak için bir fotoğraf yükleyin",
+    "types": "Desteklenen dosyalar .jpg .png .heic",
+    "settings": "Ayarlar",
+    "generate": "Oluştur",
+    "reset": "Sıfırla",
+    "dragNDrop": "Resminizi buraya sürükleyip bırakın",
+    "fileSupported": "Desteklenen görüntüler .jpg .png .hevc",
+    "uploadingFile": "Yükleme tamamlanırken lütfen bekleyin. Bu bir dakikadan az sürecektir. Sayfayı yenilemeyin veya sekmeyi hiçbir şekilde kapatmayın."
+  },
+  "verifyEmail": {
+    "title": "E-posta Doğrulandı",
+    "description": "E-posta ve profiliniz başarıyla doğrulandı."
+  },
+  "main": {
+    "capitalTitle": "D",
+    "firstLogoTitle": "own",
+    "secondLogoTitle": "ress",
+    "title": " AI - deepnude uygulaması",
+    "headDesc": "Herkesi çıplak gör, ücretsiz",
+    "bodyDesc": "Sadece kıyafetlerin üzerine boya yapın, yaş ve vücut tipini ayarlayın ve birkaç saniye içinde bir deepnude elde edin"
+  },
+  "buttons": {
+    "close": "Kapat",
+    "main": "Şimdi dene",
+    "forFree": "Şimdi dene",
+    "upload": "Fotoğraf yükle",
+    "submit": "Gönder",
+    "makeNewPayment": "Yükleme tutarını değiştir",
+    "showFilters": "Filtreleri Göster",
+    "remove": "Kaldır",
+    "download": "İndir",
+    "backHome": "Ana Sayfa"
+  },
+  "advantages": {
+    "title1": "Hızlı üretim",
+    "description1": "üretim süresi 1 dakikadan kısa",
+    "title2": "Kullanıcı dostu",
+    "description2": "ve sezgisel arayüz",
+    "title3": "En iyi kalite",
+    "description3": "kusursuz fotoğraf mükemmelliği"
+  },
+  "howItWorks": {
+    "title": "Nasıl çalışır?",
+    "description": "AI modelimiz binlerce fotoğrafla eğitildi. Bu şekilde, bir kişinin çıplak olarak nasıl görüneceğini olabildiğince doğru bir şekilde sunar",
+    "link1": "Güvenli ve Anonim Olarak Kaydolun",
+    "link2": "Normal bir açıda duran bir kişinin fotoğrafını yükleyin",
+    "link3": "Bir oluşturma modu seçin, ve işte bu kadar!"
+  },
+  "howItLooksLike": {
+    "title": "Nasıl",
+    "titleNext": "görünüyor?",
+    "description": "Bir resim yüklediğinizde, uygulamamız hızlı bir şekilde işleyip en yüksek kalitede mümkün olan en iyi sonucu sunacaktır."
+  },
+  "ourPlans": {
+    "title": "Planlarımız",
+    "medQuality": "Orta kalite",
+    "exQuality": "Mükemmel kalite",
+    "traits": "Vücut özellikleri",
+    "fast": "Daha hızlı sıra",
+    "generation": "Daha hızlı üretim",
+    "time": "Sıra yok",
+    "noWater": "Filigran yok",
+    "undress": "Soyunma modu",
+    "default": "Standart",
+    "noPlan": "Plan yok",
+    "basic": "Temel",
+    "pro": "Pro",
+    "credits": "Krediler"
+  },
+  "safe": {
+    "title1": "Bu ",
+    "title2": "tamamen ",
+    "title3": "güvenli",
+    "text1": "Herhangi bir veri saklamıyoruz.",
+    "text2": "Bu tamamen gizlidir ve eylemleriniz hiçbir yerde yayınlanmaz"
+  },
+  "invalid": {
+    "email": "E-posta yanlış",
+    "password": "Şifre 8 karakterden fazla olmalıdır"
+  },
+  "faq": {
+    "linkTitle1": "Deepnude nasıl yaparım?",
+    "linkDesc1": "Kullanmanıza izin verilen bir fotoğrafı yükleyin, kaldırmak istediğiniz tüm kıyafetleri dikkatlice boyayın. AI'mizin düzenleme için daha fazla alana sahip olması için biraz daha geniş bir alan boyamak daha iyidir. Ardından, 'GO'ya basın. Ayrıca kişinin kıyafetlerini değiştirecek olan İç Giyim veya Bikini gibi farklı modları deneyebilirsiniz. :)",
+    "linkTitle2": "Vücut tipi ve yaş özellikleri ne işe yarar?",
+    "linkDesc2": "Vücut tipi ve yaş özellikleri, isteklerinize göre üretim kalitesini artırmanıza olanak tanır. Örneğin, daha atletik veya tombul bir fiziği görmek istiyorsanız - onları kullanın!",
+    "linkTitle3": "Görüntülerim gizli mi?",
+    "linkDesc3": "Evet, görüntüleriniz tamamen gizlidir. Hiçbir zaman bizim tarafımızdan saklanmaz ve yalnızca siz sonuçlara erişebilirsiniz.",
+    "linkTitle4": "Kötü bir sonuç alırsam ne yapmalıyım?",
+    "linkDesc4": "Maalesef, her zaman iyi bir sonuç garanti edemeyiz. Ancak bu, kullandığınız fotoğrafın %90'ına ve kıyafetleri nasıl boyadığınıza bağlıdır"
+  },
+  "modals": {
+    "signUp": "Kaydol",
+    "signIn": "Giriş yap",
+    "send": "Gönder",
+    "copy": "Kopyala",
+    "submit": "Gönder",
+    "zoom": "Yakınlaştırılmış Görüntü",
+    "addCash": "Bakiye Ekle",
+    "forgotPassword": "Şifrenizi mi unuttunuz?",
+    "recoveryPass": "Şifre kurtarma",
+    "attention": "Dikkat",
+    "recommendation": {
+      "title": "En iyi sonuç için öneri!",
+      "good": "İyi",
+      "bad": "Kötü"
+    },
+    "promoCode": {
+      "title": "Aktif promosyon kodu",
+      "text": "Ekstra jeton almak için promosyon kodunuzu girin."
+    },
+    "referral": {
+      "title": "Referans bağlantım",
+      "invited": "{count} arkadaşınızı davet ettiniz ve {generations} ücretsiz üretim kazandınız. Daha fazla kazanmak için paylaşmaya devam edin!",
+      "text": "Her davet edilen arkadaşınız, minimum tutarda bakiye yüklediğinde 10 ücretsiz soyunma hakkı kazanırsınız!"
+    }
+  },
+  "addCash": {
+    "add": "Ekle",
+    "coins": "jeton",
+    "privacy": "Boobs jetonları satın alarak, gizlilik politikamızı ve hizmet şartlarımızı kabul etmiş olursunuz. Bu bilgileri platformumuzun ilgili bölümlerinde bulabilirsiniz.",
+    "hurry": "Şimdi Almak İçin Acele Et",
+    "promotion": "Yüzde 65'e Kadar Daha Fazla",
+    "addCash": "Göğüs Ekle"
+  },
+  "registration": {
+    "requirements1": "Bu web sitesini kullanmak için 18+ olmalısınız",
+    "requirements2": "Başka insanların fotoğraflarını izinleri olmadan kullanamazsınız",
+    "requirements3": "Oluşturduğunuz görüntülerden yalnızca siz sorumlusunuz"
+  },
+  "footer": {
+    "links": {
+      "link1": "Hakkımızda",
+      "link2": "Kullanım Politikası",
+      "link3": "Gizlilik Politikası",
+      "link4": "Kullanım Şartları"
+    },
+    "data": "Görüntü verilerini saklamıyoruz. Görüntüleri üreten kişi tamamen sorumludur."
+  },
+  "recommendationPopup": {
+    "popup1": "En iyi sonuçlar için, mümkün olduğunca az kıyafet giyin ve yüzünüzün ve vücudunuzun net bir şekilde görünmesini sağlayın, kameraya doğrudan bakın!",
+    "popup2": "Yapay zekaya net, keskin bir fotoğraf verin ve görüntünüzü olağanüstü bir şeye dönüştürdüğünü izleyin.",
+    "popup3": "En iyi sonuçlar için, fotoğrafınızda sadece bir kişinin olduğundan emin olun. Yapay zekamız, odaklandığında en parlak şekilde parlıyor!",
+    "dontShow": "Bir daha gösterme!"
+  },
+  "navigation": {
+    "next": "İleri",
+    "prev": "Geri"
+  },
+  "errors": {
+    "auth": {
+      "userExist": "Kullanıcı zaten mevcut",
+      "notFound": "Kullanıcı bulunamadı",
+      "invalidPass": "Geçersiz şifre",
+      "verifyAcc": "Lütfen e-postanıza gönderilen bağlantıyı kullanarak hesabınızı etkinleştirin",
+      "invalidEmail": "Bu e-posta adresine sahip kullanıcı mevcut değil"
+    },
+    "generate": {
+      "removeImg": "Resmi başarıyla kaldırdınız, yeni bir resim yüklemek için buraya tıklayın!"
+    }
+  },
+  "success": {
+    "auth": {
+      "checkEmail": "E-postanızı kontrol edin ve hesabınızı onaylayın"
+    }
+  }
+}

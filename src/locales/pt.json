@@ -1,0 +1,182 @@
+{
+  "header": {
+    "subTitle": "Un",
+    "title": "dress.app",
+    "referral": "Link de indicação",
+    "activatePromocode": "Ativar código promocional",
+    "recommendation": "Recomendação de uso",
+    "headerNav": {
+      "link1": "Como funciona?",
+      "link2": "Indicação",
+      "link3": "Nossos planos",
+      "link4": "FAQ",
+      "link5": "Contatos"
+    }
+  },
+  "edit": {
+    "uploadTitle": "Carregue uma foto para despir",
+    "types": "Arquivos suportados .jpg .png .heic",
+    "settings": "Configurações",
+    "generate": "Gerar",
+    "reset": "Redefinir",
+    "dragNDrop": "Arraste e solte sua imagem aqui",
+    "fileSupported": "Imagens suportadas .jpg .png .hevc",
+    "uploadingFile": "Por favor, aguarde enquanto o carregamento é concluído. Isso levará menos de um minuto. Não atualize a página ou feche a aba em nenhuma circunstância."
+  },
+  "verifyEmail": {
+    "title": "Email Verificado",
+    "description": "Seu email e perfil foram verificados com sucesso."
+  },
+  "main": {
+    "capitalTitle": "D",
+    "firstLogoTitle": "own",
+    "secondLogoTitle": "ress",
+    "title": " AI - aplicativo deepnude",
+    "headDesc": "Veja qualquer pessoa nua de graça",
+    "bodyDesc": "Basta pintar sobre as roupas, definir a idade e o tipo de corpo e obter um deepnude em poucos segundos"
+  },
+  "buttons": {
+    "main": "Experimente agora",
+    "forFree": "Experimente agora",
+    "upload": "Carregar uma foto",
+    "submit": "Enviar",
+    "makeNewPayment": "Alterar o valor do recarregamento",
+    "showFilters": "Mostrar Filtros",
+    "remove": "Remover",
+    "download": "Baixar",
+    "backHome": "Início",
+    "close": "Fechar"
+  },
+  "advantages": {
+    "title1": "Geração rápida",
+    "description1": "o tempo de geração é inferior a 1 minuto",
+    "title2": "Fácil de usar",
+    "description2": "e interface intuitiva",
+    "title3": "Qualidade superior",
+    "description3": "perfeição fotográfica impecável"
+  },
+  "howItWorks": {
+    "title": "Como funciona?",
+    "description": "Nosso modelo de IA é treinado em milhares de fotos. Dessa forma, ele gera o mais precisamente possível como uma pessoa pareceria nua",
+    "link1": "Registre-se de forma Segura & Anônima",
+    "link2": "Carregue uma foto de uma pessoa em um ângulo normal",
+    "link3": "Escolha um modo de geração, e pronto!"
+  },
+  "howItLooksLike": {
+    "title": "Como é",
+    "titleNext": "o resultado?",
+    "description": "Quando você faz o upload de uma imagem, nosso aplicativo a processará rapidamente e fornecerá o melhor resultado possível com a mais alta qualidade."
+  },
+  "ourPlans": {
+    "title": "Nossos Planos",
+    "medQuality": "Qualidade média",
+    "exQuality": "Qualidade excelente",
+    "traits": "Características do corpo",
+    "fast": "Fila mais rápida",
+    "generation": "Gerações mais rápidas",
+    "time": "Sem fila",
+    "noWater": "Sem marcas d'água",
+    "undress": "Modo de despir",
+    "default": "Padrão",
+    "noPlan": "Sem plano",
+    "basic": "Básico",
+    "pro": "Pro",
+    "credits": "Créditos"
+  },
+  "safe": {
+    "title1": "É ",
+    "title2": "completamente ",
+    "title3": "seguro",
+    "text1": "Não salvamos nenhum dado.",
+    "text2": "Isso é completamente confidencial e suas ações não são publicadas em lugar algum"
+  },
+  "invalid": {
+    "email": "E-mail está incorreto",
+    "password": "A senha deve ter mais de 8 caracteres"
+  },
+  "faq": {
+    "linkTitle1": "Como faço um deepnude?",
+    "linkDesc1": "Carregue uma foto que você tem permissão para usar, pinte cuidadosamente todas as roupas que deseja remover. É melhor pintar uma área um pouco maior para que nossa IA tenha mais espaço para editar. Depois, pressione 'GO'. Você também pode experimentar diferentes modos como Lingerie ou Bikini, que mudarão as roupas da pessoa. :)",
+    "linkTitle2": "O que fazem as características de tipo de corpo e idade?",
+    "linkDesc2": "As características de tipo de corpo e idade permitem que você melhore a qualidade da geração de acordo com seus desejos. Por exemplo, se você deseja ver um físico mais atlético ou mais cheio - use essas opções!",
+    "linkTitle3": "Minhas imagens são privadas?",
+    "linkDesc3": "Sim, suas imagens são completamente privadas. Elas nunca são salvas por nós e somente você tem acesso aos resultados.",
+    "linkTitle4": "O que devo fazer se eu obter um resultado ruim?",
+    "linkDesc4": "Infelizmente, não podemos garantir um bom resultado sempre. Mas isso depende 90% da foto que você usa e de como você pinta as roupas"
+  },
+  "modals": {
+    "signUp": "Inscreva-se",
+    "signIn": "Entrar",
+    "send": "Enviar",
+    "copy": "Copiar",
+    "submit": "Enviar",
+    "zoom": "Imagem ampliada",
+    "addCash": "Adicionar Saldo",
+    "forgotPassword": "Esqueceu a senha?",
+    "recoveryPass": "Recuperação de senha",
+    "attention": "Atenção",
+    "recommendation": {
+      "title": "Recomendação para o melhor resultado!",
+      "good": "Bom",
+      "bad": "Ruim"
+    },
+    "promoCode": {
+      "title": "Código promocional ativo",
+      "text": "Digite seu código promocional para receber moedas adicionais."
+    },
+    "referral": {
+      "title": "Meu link de indicação",
+      "invited": "Você indicou {count} amigos e ganhou {generations} gerações grátis. Continue compartilhando para ganhar mais!",
+      "text": "Você ganha 10 desnudamentos gratuitos para cada amigo convidado que recarregar o saldo com o valor mínimo!"
+    }
+  },
+  "addCash": {
+    "add": "Adicionar",
+    "coins": "moedas",
+    "privacy": "Ao comprar moedas Boobs, você concorda com nossa política de privacidade e termos de serviço. Você pode encontrar essas informações nas seções relevantes da nossa plataforma.",
+    "hurry": "Corra para comprar só agora",
+    "promotion": "até 65% a mais",
+    "addCash": "ADICIONAR SEIOS"
+  },
+  "registration": {
+    "requirements1": "Você deve ter 18+ anos para usar este site",
+    "requirements2": "Você não pode usar fotos de outras pessoas sem a permissão delas",
+    "requirements3": "Você é o único responsável pelas imagens que gerar"
+  },
+  "footer": {
+    "links": {
+      "link1": "Sobre nós",
+      "link2": "Política de uso",
+      "link3": "Política de privacidade",
+      "link4": "Termos de uso"
+    },
+    "data": "Não salvamos dados de imagens. A pessoa que produz as imagens é a única responsável."
+  },
+  "recommendationPopup": {
+    "popup1": "Para melhores resultados, use roupas mínimas e certifique-se de que seu rosto e corpo estejam claramente visíveis, de frente para a câmera!",
+    "popup2": "Dê ao AI uma foto clara e nítida e veja como ele transforma sua imagem em algo extraordinário.",
+    "popup3": "Para os melhores resultados, certifique-se de que sua foto tenha apenas uma pessoa. Nossa IA brilha mais quando está focada em você!",
+    "dontShow": "Não mostrar novamente!"
+  },
+  "navigation": {
+    "next": "Próximo",
+    "prev": "Voltar"
+  },
+  "errors": {
+    "auth": {
+      "userExist": "Usuário já existe",
+      "notFound": "Usuário não encontrado",
+      "invalidPass": "Senha inválida",
+      "verifyAcc": "Por favor, ative sua conta usando o link no seu e-mail",
+      "invalidEmail": "Usuário com este e-mail não existe"
+    },
+    "generate": {
+      "removeImg": "Você removeu a imagem com sucesso, clique lá para enviar uma nova!"
+    }
+  },
+  "success": {
+    "auth": {
+      "checkEmail": "Verifique seu e-mail e confirme sua conta"
+    }
+  }
+}

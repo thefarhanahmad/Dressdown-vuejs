@@ -1,0 +1,182 @@
+{
+  "header": {
+    "subTitle": "Un",
+    "title": "dress.app",
+    "referral": "Empfehlungslink",
+    "activatePromocode": "Promocode aktivieren",
+    "recommendation": "Verwendungsempfehlung",
+    "headerNav": {
+      "link1": "Wie funktioniert es?",
+      "link2": "Empfehlung",
+      "link3": "Unsere Pläne",
+      "link4": "FAQ",
+      "link5": "Kontakt"
+    }
+  },
+  "edit": {
+    "uploadTitle": "Laden Sie ein Foto hoch, um es auszuziehen",
+    "types": "Unterstützte Dateien .jpg .png .heic",
+    "settings": "Einstellungen",
+    "generate": "Generieren",
+    "reset": "Zurücksetzen",
+    "dragNDrop": "Ziehen Sie Ihr Bild hierher",
+    "fileSupported": "Unterstützte Bilder .jpg .png .hevc",
+    "uploadingFile": "Bitte warten Sie, während der Ladevorgang abgeschlossen wird. Dies dauert weniger als eine Minute. Aktualisieren Sie die Seite nicht und schließen Sie den Tab unter keinen Umständen."
+  },
+  "verifyEmail": {
+    "title": "E-Mail verifiziert",
+    "description": "Ihre E-Mail und Ihr Profil wurden erfolgreich verifiziert."
+  },
+  "main": {
+    "capitalTitle": "D",
+    "firstLogoTitle": "own",
+    "secondLogoTitle": "ress",
+    "title": " AI - Deepnude-App",
+    "headDesc": "Sehen Sie jeden kostenlos nackt",
+    "bodyDesc": "Malen Sie einfach über die Kleidung, legen Sie Alter und Körpertyp fest und erhalten Sie in wenigen Sekunden ein Deepnude"
+  },
+  "buttons": {
+    "main": "Jetzt ausprobieren",
+    "close": "Schließen",
+    "forFree": "Jetzt ausprobieren",
+    "upload": "Foto hochladen",
+    "submit": "Einreichen",
+    "makeNewPayment": "Ändern Sie den Aufladebetrag",
+    "showFilters": "Filter anzeigen",
+    "remove": "Entfernen",
+    "download": "Herunterladen",
+    "backHome": "Startseite"
+  },
+  "advantages": {
+    "title1": "Schnelle Generierung",
+    "description1": "Die Generierungszeit beträgt weniger als 1 Minute",
+    "title2": "Benutzerfreundlich",
+    "description2": "und intuitive Benutzeroberfläche",
+    "title3": "Top-Qualität",
+    "description3": "Makellose Fotoperfektion"
+  },
+  "howItWorks": {
+    "title": "Wie funktioniert es?",
+    "description": "Unser KI-Modell wurde auf Tausenden von Fotos trainiert. Auf diese Weise rendert es so genau wie möglich, wie eine Person nackt aussehen würde.",
+    "link1": "Sicher und anonym registrieren",
+    "link2": "Laden Sie ein Foto einer Person im normalen Winkel hoch",
+    "link3": "Wählen Sie einen Generierungsmodus und los geht's!"
+  },
+  "howItLooksLike": {
+    "title": "Wie sieht es aus?",
+    "titleNext": "",
+    "description": "Wenn Sie ein Bild hochladen, wird unsere Anwendung es schnell verarbeiten und das bestmögliche Ergebnis mit höchster Qualität liefern."
+  },
+  "ourPlans": {
+    "title": "Unsere Pläne",
+    "medQuality": "Mittlere Qualität",
+    "exQuality": "Ausgezeichnete Qualität",
+    "traits": "Körpermerkmale",
+    "fast": "Schnellere Warteschlange",
+    "generation": "Schnellere Generierungen",
+    "time": "Keine Warteschlange",
+    "noWater": "Keine Wasserzeichen",
+    "undress": "Ausziehmodus",
+    "default": "Standard",
+    "noPlan": "Kein Plan",
+    "basic": "Grundlegend",
+    "pro": "Pro",
+    "credits": "Credits"
+  },
+  "safe": {
+    "title1": "Es ist ",
+    "title2": "komplett ",
+    "title3": "sicher",
+    "text1": "Wir speichern keine Daten.",
+    "text2": "Dies ist vollkommen vertraulich und Ihre Handlungen werden nirgends veröffentlicht."
+  },
+  "invalid": {
+    "email": "E-Mail ist falsch",
+    "password": "Das Passwort sollte mehr als 8 Zeichen enthalten"
+  },
+  "faq": {
+    "linkTitle1": "Wie mache ich ein Deepnude?",
+    "linkDesc1": "Laden Sie ein Foto hoch, das Sie verwenden dürfen, und malen Sie sorgfältig über alle Kleidungsstücke, die Sie entfernen möchten. Es ist besser, einen etwas größeren Bereich zu übermalen, damit unsere KI mehr Platz für die Bearbeitung hat. Dann drücken Sie auf 'GO'. Sie können auch verschiedene Modi wie Lingerie oder Bikini ausprobieren, die die Kleidung der Person ändern werden. :)",
+    "linkTitle2": "Was bewirken die Körper- und Altersmerkmale?",
+    "linkDesc2": "Körper- und Altersmerkmale ermöglichen es Ihnen, die Generierungsqualität an Ihre Wünsche anzupassen. Zum Beispiel möchten Sie einen athletischeren oder molligeren Körper sehen - verwenden Sie sie!",
+    "linkTitle3": "Sind meine Bilder privat?",
+    "linkDesc3": "Ja, Ihre Bilder sind völlig privat. Sie werden von uns niemals gespeichert und nur Sie haben Zugriff auf die Ergebnisse.",
+    "linkTitle4": "Was soll ich tun, wenn ich ein schlechtes Ergebnis erhalte?",
+    "linkDesc4": "Leider können wir Ihnen nicht immer ein gutes Ergebnis garantieren. Aber es hängt zu 90 % davon ab, welches Foto Sie verwenden und wie Sie die Kleidung übermalen."
+  },
+  "modals": {
+    "signUp": "Anmelden",
+    "signIn": "Einloggen",
+    "send": "Senden",
+    "copy": "Kopieren",
+    "submit": "Einreichen",
+    "zoom": "Vergrößertes Bild",
+    "addCash": "Geld hinzufügen",
+    "forgotPassword": "Passwort vergessen?",
+    "recoveryPass": "Passwort-Wiederherstellung",
+    "attention": "Achtung",
+    "promoCode": {
+      "title": "Aktiver Promocode",
+      "text": "Geben Sie Ihren Promocode ein, um zusätzliche Münzen zu erhalten."
+    },
+    "referral": {
+      "title": "Mein Empfehlungslink",
+      "invited": "Sie haben {count} Freunde geworben und {generations} kostenlose Generationen verdient. Teilen Sie weiter, um mehr zu verdienen!",
+      "text": "Du erhältst 10 kostenlose Entkleidungen für jeden eingeladenen Freund, der das Guthaben mit dem Mindestbetrag auflädt!"
+    },
+    "recommendation": {
+      "title": "Empfehlung für das beste Ergebnis!",
+      "good": "Gut",
+      "bad": "Schlecht"
+    }
+  },
+  "addCash": {
+    "add": "Hinzufügen",
+    "coins": "Münzen",
+    "privacy": "Durch den Kauf von Boobs-Münzen stimmen Sie unseren Datenschutzrichtlinien und Nutzungsbedingungen zu. Diese Informationen finden Sie in den entsprechenden Abschnitten unserer Plattform.",
+    "hurry": "Jetzt schnell kaufen",
+    "promotion": "Bis zu 65% mehr",
+    "addCash": "Brüste hinzufügen"
+  },
+  "registration": {
+    "requirements1": "Sie müssen über 18 Jahre alt sein, um diese Website zu nutzen",
+    "requirements2": "Sie dürfen keine Fotos anderer Personen ohne deren Erlaubnis verwenden",
+    "requirements3": "Sie sind allein verantwortlich für die von Ihnen erstellten Bilder"
+  },
+  "footer": {
+    "links": {
+      "link1": "Über uns",
+      "link2": "Nutzungsrichtlinien",
+      "link3": "Datenschutzrichtlinie",
+      "link4": "Nutzungsbedingungen"
+    },
+    "data": "Wir speichern keine Bilddaten. Die Person, die die Bilder erstellt, trägt die alleinige Verantwortung."
+  },
+  "recommendationPopup": {
+    "popup1": "Für die besten Ergebnisse tragen Sie minimalistische Kleidung und stellen Sie sicher, dass Ihr Gesicht und Körper klar sichtbar sind und direkt in die Kamera schauen!",
+    "popup2": "Geben Sie der KI ein klares, scharfes Foto, und beobachten Sie, wie es Ihr Bild in etwas Außergewöhnliches verwandelt.",
+    "popup3": "Für die besten Ergebnisse stellen Sie sicher, dass Ihr Foto nur eine Person zeigt. Unsere KI arbeitet am besten, wenn sie sich auf Sie konzentrieren kann!",
+    "dontShow": "Nicht mehr anzeigen!"
+  },
+  "navigation": {
+    "next": "Weiter",
+    "prev": "Zurück"
+  },
+  "errors": {
+    "auth": {
+      "userExist": "Benutzer existiert bereits",
+      "notFound": "Benutzer nicht gefunden",
+      "invalidPass": "Ungültiges Passwort",
+      "verifyAcc": "Bitte aktivieren Sie Ihr Konto über den Link in Ihrer E-Mail",
+      "invalidEmail": "Benutzer mit dieser E-Mail existiert nicht"
+    },
+    "generate": {
+      "removeImg": "Sie haben das Bild erfolgreich entfernt, klicken Sie dort, um ein neues hochzuladen!"
+    }
+  },
+  "success": {
+    "auth": {
+      "checkEmail": "Überprüfen Sie Ihre E-Mail und bestätigen Sie Ihr Konto"
+    }
+  }
+}

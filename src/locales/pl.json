@@ -1,0 +1,182 @@
+{
+  "header": {
+    "subTitle": "Un",
+    "title": "dress.app",
+    "referral": "Link polecający",
+    "activatePromocode": "Aktywuj kod promocyjny",
+    "recommendation": "Rekomendacja użycia",
+    "headerNav": {
+      "link1": "Jak to działa?",
+      "link2": "Polecenie",
+      "link3": "Nasze plany",
+      "link4": "FAQ",
+      "link5": "Kontakt"
+    }
+  },
+  "edit": {
+    "uploadTitle": "Prześlij zdjęcie do rozebrania",
+    "types": "Obsługiwane pliki .jpg .png .heic",
+    "settings": "Ustawienia",
+    "generate": "Generuj",
+    "reset": "Resetuj",
+    "dragNDrop": "Przeciągnij i upuść swój obraz tutaj",
+    "fileSupported": "Obsługiwane obrazy .jpg .png .hevc",
+    "uploadingFile": "Proszę czekać, aż ładowanie zostanie zakończone. To zajmie mniej niż minutę. Nie odświeżaj strony ani nie zamykaj karty w żadnym wypadku."
+  },
+  "verifyEmail": {
+    "title": "E-mail zweryfikowany",
+    "description": "Twój e-mail i profil zostały pomyślnie zweryfikowane."
+  },
+  "main": {
+    "capitalTitle": "D",
+    "firstLogoTitle": "own",
+    "secondLogoTitle": "ress",
+    "title": "AI - deepnude app",
+    "headDesc": "Zobacz każdego nago za darmo",
+    "bodyDesc": "Po prostu pomaluj na ubrania, ustaw wiek i typ ciała, a w kilka sekund uzyskaj deepnude"
+  },
+  "buttons": {
+    "close": "Zamknij",
+    "main": "Spróbuj teraz",
+    "forFree": "Spróbuj teraz",
+    "upload": "Prześlij zdjęcie",
+    "submit": "Wyślij",
+    "makeNewPayment": "Zmień kwotę doładowania",
+    "showFilters": "Pokaż filtry",
+    "remove": "Usuń",
+    "download": "Pobierz",
+    "backHome": "Strona główna"
+  },
+  "advantages": {
+    "title1": "Szybka generacja",
+    "description1": "czas generacji jest krótszy niż 1 minuta",
+    "title2": "Przyjazny dla użytkownika",
+    "description2": "i intuicyjny interfejs",
+    "title3": "Wysoka jakość",
+    "description3": "nieskazitelna perfekcja zdjęcia"
+  },
+  "howItWorks": {
+    "title": "Jak to działa?",
+    "description": "Nasz model AI jest szkolony na tysiącach zdjęć. W ten sposób renderuje jak najdokładniej, jak dana osoba wyglądałaby nago",
+    "link1": "Zarejestruj się bezpiecznie i anonimowo",
+    "link2": "Prześlij zdjęcie osoby stojącej pod normalnym kątem",
+    "link3": "Wybierz tryb generowania i gotowe!"
+  },
+  "howItLooksLike": {
+    "title": "Jak to",
+    "titleNext": "wygląda?",
+    "description": "Gdy przesyłasz obraz, nasza aplikacja szybko go przetwarza i dostarcza najlepszy możliwy wynik o najwyższej jakości."
+  },
+  "ourPlans": {
+    "title": "Nasze plany",
+    "medQuality": "Średnia jakość",
+    "exQuality": "Doskonała jakość",
+    "traits": "Cechy ciała",
+    "fast": "Szybsza kolejka",
+    "generation": "Szybsze generacje",
+    "time": "Brak kolejki",
+    "noWater": "Brak znaków wodnych",
+    "undress": "Tryb rozbierania",
+    "default": "Standardowy",
+    "noPlan": "Brak planu",
+    "basic": "Podstawowy",
+    "pro": "Pro",
+    "credits": "Kredyty"
+  },
+  "safe": {
+    "title1": "To jest ",
+    "title2": "całkowicie ",
+    "title3": "bezpieczne",
+    "text1": "Nie przechowujemy żadnych danych.",
+    "text2": "To jest całkowicie poufne i Twoje działania nie są nigdzie publikowane"
+  },
+  "invalid": {
+    "email": "E-mail jest nieprawidłowy",
+    "password": "Hasło powinno mieć więcej niż 8 znaków"
+  },
+  "faq": {
+    "linkTitle1": "Jak zrobić deepnude?",
+    "linkDesc1": "Prześlij zdjęcie, które masz prawo używać, starannie pomaluj na wszystkie ubrania, które chcesz usunąć. Lepiej jest pomalować nieco większy obszar, aby nasza AI miała więcej miejsca do edycji. Następnie naciśnij 'GO'. Możesz także eksperymentować z różnymi trybami, takimi jak Bielizna lub Bikini, które zmienią ubrania osoby. :)",
+    "linkTitle2": "Co robią cechy typu ciała i wieku?",
+    "linkDesc2": "Cechy typu ciała i wieku pozwalają poprawić jakość generacji, aby pasowała do Twoich preferencji. Na przykład, jeśli chcesz zobaczyć bardziej atletyczną lub pulchną sylwetkę - użyj ich!",
+    "linkTitle3": "Czy moje zdjęcia są prywatne?",
+    "linkDesc3": "Tak, twoje zdjęcia są całkowicie prywatne. Nigdy nie są przez nas zapisywane, a tylko ty masz dostęp do wyników.",
+    "linkTitle4": "Co zrobić, jeśli otrzymam zły wynik?",
+    "linkDesc4": "Niestety, nie możemy zawsze zagwarantować dobrego wyniku. Jednak to zależy w 90% od tego, które zdjęcie używasz i jak malujesz na ubrania"
+  },
+  "modals": {
+    "signUp": "Zarejestruj się",
+    "signIn": "Zaloguj się",
+    "send": "Wyślij",
+    "copy": "Kopiuj",
+    "submit": "Wyślij",
+    "zoom": "Powiększony obraz",
+    "addCash": "Dodaj gotówkę",
+    "forgotPassword": "Zapomniałeś hasła?",
+    "recoveryPass": "Odzyskiwanie hasła",
+    "attention": "Uwaga",
+    "recommendation": {
+      "title": "Rekomendacja dla najlepszego wyniku!",
+      "good": "Dobry",
+      "bad": "Zły"
+    },
+    "promoCode": {
+      "title": "Aktywny kod promocyjny",
+      "text": "Wprowadź kod promocyjny, aby otrzymać dodatkowe monety."
+    },
+    "referral": {
+      "title": "My referral link",
+      "invited": "You have referred {count} friends and earned {generations} free generations. Keep sharing to earn more!",
+      "text": "Otrzymujesz 10 darmowych rozebranek za każdego zaproszonego przyjaciela, który doładowuje saldo minimalną kwotą!"
+    }
+  },
+  "addCash": {
+    "add": "Dodaj",
+    "coins": "monety",
+    "privacy": "Kupując monety Boobs, zgadzasz się z naszą polityką prywatności i warunkami korzystania. Informacje te znajdziesz w odpowiednich sekcjach naszej platformy.",
+    "hurry": "Kup teraz w pośpiechu",
+    "promotion": "Do 65% więcej",
+    "addCash": "Dodaj Piersi"
+  },
+  "registration": {
+    "requirements1": "Musisz mieć ukończone 18 lat, aby korzystać z tej strony",
+    "requirements2": "Nie możesz używać zdjęć innych osób bez ich zgody",
+    "requirements3": "Jesteś w pełni odpowiedzialny za wygenerowane obrazy"
+  },
+  "footer": {
+    "links": {
+      "link1": "O nas",
+      "link2": "Polityka użytkowania",
+      "link3": "Polityka prywatności",
+      "link4": "Warunki użytkowania"
+    },
+    "data": "Nie przechowujemy żadnych danych obrazów. Osoba, która tworzy obrazy, ponosi pełną odpowiedzialność."
+  },
+  "recommendationPopup": {
+    "popup1": "Aby uzyskać najlepsze rezultaty, noś minimalną ilość ubrań i upewnij się, że twoja twarz i ciało są wyraźnie widoczne, skierowane prosto w stronę kamery!",
+    "popup2": "Daj AI wyraźne, ostre zdjęcie i obserwuj, jak przekształca je w coś niezwykłego.",
+    "popup3": "Aby uzyskać najlepsze rezultaty, upewnij się, że na zdjęciu znajduje się tylko jedna osoba. Nasze AI najlepiej działa, gdy koncentruje się na tobie!",
+    "dontShow": "Nie pokazuj ponownie!"
+  },
+  "navigation": {
+    "next": "Dalej",
+    "prev": "Wstecz"
+  },
+  "errors": {
+    "auth": {
+      "userExist": "Użytkownik już istnieje",
+      "notFound": "Użytkownik nie znaleziony",
+      "invalidPass": "Nieprawidłowe hasło",
+      "verifyAcc": "Proszę aktywować swoje konto za pomocą linku w e-mailu",
+      "invalidEmail": "Użytkownik z tym adresem e-mail nie istnieje"
+    },
+    "generate": {
+      "removeImg": "Pomyślnie usunięto obraz, kliknij tutaj, aby przesłać nowy!"
+    }
+  },
+  "success": {
+    "auth": {
+      "checkEmail": "Sprawdź swoją skrzynkę mailową i potwierdź konto"
+    }
+  }
+}
